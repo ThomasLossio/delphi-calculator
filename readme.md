@@ -11,7 +11,7 @@ A simple calculator built with **Delphi 12.1 Community Edition** as part of a pe
 - Clear button to reset values
 
 ## 🖼️ Screenshot
-
+![image](https://github.com/user-attachments/assets/086dc59d-50c6-457b-8a1b-698028f6d508)
 
 ## 🚀 How to Run
 1. Open the project in **Delphi 12.1 Community Edition**
