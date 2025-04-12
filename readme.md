@@ -40,4 +40,4 @@ Refer to the `.gitignore` file for full details.
 MIT
 
 ---
-Made with ☕, curiosity and nostalgia for desktop development.
+Made with ☕ and a little bit of 🙃.
